@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surjesh Yadav</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full stack web developer with a flair for creating elegant and user centric solutions within the given deadline. Passionate about software architecture and cloud computing. Regular attendee of web developer meetups and hackathons.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surjeshyadavmasai&label=Profile%20views&color=0e75b6&style=flat" alt="surjeshyadavmasai" /> </p>
 
