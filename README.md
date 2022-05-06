@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **surjeshom@gmail.com**
   - Whatsapp - **+918445618704**
-- ⚡ Fact About me **I am Passionate about New Technology.**
+- ⚡ Fact About me :- **I am Passionate about New Technology.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
