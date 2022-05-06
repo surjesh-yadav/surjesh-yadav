@@ -53,7 +53,7 @@
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surjeshyadavmasai&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="7oSkaaa" height="192px"/>
   <br/>
-  <b>Note:</b>We don't just sell websites, we create websites that SELL.
+  <b>Note:</b>I don't just sell websites, I create websites that SELL.
   </p>
 
 
