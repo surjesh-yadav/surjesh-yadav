@@ -1,26 +1,60 @@
+![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 <h1 align="center">Hi 👋, I'm Surjesh Yadav</h1>
-<h3 align="center">A passionate Full stack web developer with a flair for creating elegant and user centric solutions within the given deadline. Passionate about software architecture and cloud computing. Regular attendee of web developer meetups and hackathons.</h3>
+<h1 align="center">
+  <b>Heyy!! Warriors</b>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surjeshyadavmasai&label=Profile%20views&color=0e75b6&style=flat" alt="surjeshyadavmasai" /> </p>
+<h3 align="center" >"It always seems impossible until it's done."</h3>
+<p align="center" ><samp>I was passionate about coding so  I started my journey with a degree in Bachelor of Computer Application.</samp></p>
+<p align="center" ><samp align="center"> After BCA I joind Masai School it made me curious that one can create unique virtual platforms just by coding. This started to build up my interest in web development.</samp></p>
+<p align="center" ><samp align="center">I have learned lots of Advanced skills in web development like HTML, CSS, Javascript, NodeJS, MongoDB, Express, React, and DSA</samp></p>
+<p align="center" ><samp align="center">Now I am A passionate Full stack web developer with a flair for creating elegant and user centric solutions within the given deadline. Passionate about software architecture and cloud computing. Regular attendee of web developer meetups and hackathons..</samp></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surjeshyadavmasai" alt="surjeshyadavmasai" /></a> </p>
+<br>
 
-<p align="left"> <a href="https://twitter.com/surjeshyadav8" target="blank"><img src="https://img.shields.io/twitter/follow/surjeshyadav8?logo=twitter&style=for-the-badge" alt="surjeshyadav8" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surjeshyadavmasai&label=Profile%20views&color=0e75b6&style=flat&theme=gruvbox" alt="surjeshyadavmasai" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnil1296&theme=gruvbox"  alt="surjeshyadavmasai" /></a> </p>
+<img align="right" alt="Coding" width="500"     margin-radius="20" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif">
 
 - 📫 How to reach me **surjeshom@gmail.com**
+  - Whatsapp - **+918445618704**
+- ⚡ Fact About me **I am Passionate about New Technology.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/surjeshyadav8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surjeshyadav8" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/surjeshyadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surjeshyadav/" height="30" width="40" /></a>
+<a href="https://twitter.com/SurjeshYadav8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swapy71252109" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/surjeshyadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapnil-landage-74190b15b" height="30" width="40" /></a>
 <a href="https://instagram.com/surjeshyadav8704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surjeshyadav8704" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages:</h3>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
+ <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surjeshyadavmasai&show_icons=true&locale=en&layout=compact" alt="surjeshyadavmasai" /></p>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surjeshyadavmasai&show_icons=true&locale=en" alt="surjeshyadavmasai" /></p>
+<p align="left">
+  <a href="">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=surjeshyadavmasai&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=surjeshyadavmasai&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+</p>
+<p align="center">
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surjeshyadavmasai&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="7oSkaaa" height="192px"/>
+  <br/>
+  <b>Note:</b>We don't just sell websites, we create websites that SELL.
+  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surjeshyadavmasai&" alt="surjeshyadavmasai" /></p>
+
+
