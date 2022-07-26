@@ -1,7 +1,7 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 <h1 align="center">Hi 👋, I'm Surjesh Yadav</h1>
 <h1 align="center">
-  <b>Heyy!! Warriors</b>
+  <b>Hey!! Warriors</b>
 </h1>
 
 <h3 align="center" >"It always seems impossible until it's done."</h3>
