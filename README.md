@@ -20,14 +20,7 @@
 - 📫 How to reach me **surjeshom@gmail.com**
   - Whatsapp - **+918445618704**
 - ⚡ Fact About me :- **I am Passionate about New Technology.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
  
-<a href="https://www.linkedin.com/in/surjeshyadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapnil-landage-74190b15b" height="30" width="40" /></a>
-<a href="https://instagram.com/technicalsurjesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="technicalsurjesh" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages:</h3>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
